@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.6">
+	<Item id="af262fc3-d281-456a-b019-0119956e254d">
+		<Name>Заемщик</Name>
+		<Code>000000001</Code>
+		<Description>Заемщик</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="4b0a0464-11a8-4201-9501-68024bf483eb">
+		<Name>Созаемщик</Name>
+		<Code>000000002</Code>
+		<Description>Созаемщик</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

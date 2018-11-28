@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.6">
+	<Item id="601b972c-862a-49d0-b34d-36a699fbf710">
+		<Name>НаОдобрении</Name>
+		<Code>REQUESTED</Code>
+		<Description>На одобрении</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="901b4fb9-341a-4774-8c65-a53bf0166fda">
+		<Name>НеОтправлено</Name>
+		<Code>NOT_SENT</Code>
+		<Description>Не отправлено</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="94a8df00-71ca-4cd5-93e1-382bda888c19">
+		<Name>Одобрено</Name>
+		<Code>APPROVED</Code>
+		<Description>Одобрено</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
