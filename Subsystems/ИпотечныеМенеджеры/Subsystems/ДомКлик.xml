@@ -32,8 +32,10 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ТипДоходаДомКлик</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ВидыОбъектовНедвижимости</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СтатусыИпотечныхАнкетДомКлик</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.МаппингВопросовАнкетыДомКлик</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.Маппинг_ВопросыАнкетыДомКлик</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ТипыАнкетДомКлик</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.Маппинг_АдресРегистрацииДомКлик</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.Маппинг_ФактическийАдресДомКлик</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

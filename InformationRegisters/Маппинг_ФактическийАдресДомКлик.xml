@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
-	<InformationRegister uuid="031cb36a-7368-4f3a-982c-9ab0239374f0">
+	<InformationRegister uuid="87559e6b-38de-4378-938e-ff7aec18fa98">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.МаппингОтветовАнкетыДомКлик" category="Record">
-				<xr:TypeId>96f005cb-07ef-40a2-a981-717a733c1588</xr:TypeId>
-				<xr:ValueId>84f75110-f6e0-4f6d-a4c9-af1cb539a9c3</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.Маппинг_ФактическийАдресДомКлик" category="Record">
+				<xr:TypeId>37c2f594-9435-4fa6-b240-2bb4acad5413</xr:TypeId>
+				<xr:ValueId>e99ecf33-5b93-4f2d-82d8-e006e5336e43</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.МаппингОтветовАнкетыДомКлик" category="Manager">
-				<xr:TypeId>68d1618a-e4d4-4752-9588-a44477742220</xr:TypeId>
-				<xr:ValueId>9a15aa5d-4589-47c6-b45a-5991a824f24c</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.Маппинг_ФактическийАдресДомКлик" category="Manager">
+				<xr:TypeId>e4d91866-4c6c-4929-8edd-6a576e98948a</xr:TypeId>
+				<xr:ValueId>4574008a-da84-4097-b686-0c23a07ee989</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.МаппингОтветовАнкетыДомКлик" category="Selection">
-				<xr:TypeId>e4501978-18bb-4eec-ad6d-8271d58699c6</xr:TypeId>
-				<xr:ValueId>cd546a74-b958-41ad-8337-10d23482d3c6</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.Маппинг_ФактическийАдресДомКлик" category="Selection">
+				<xr:TypeId>d6ac4e4f-6347-493d-8588-fae6aae6f222</xr:TypeId>
+				<xr:ValueId>4fcd2fe7-5c21-40bb-9e6c-3d68c29943ed</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.МаппингОтветовАнкетыДомКлик" category="List">
-				<xr:TypeId>ad774056-6176-48f3-8205-a25892bc29b6</xr:TypeId>
-				<xr:ValueId>735bed60-7614-476c-8ee3-18cda69e1567</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.Маппинг_ФактическийАдресДомКлик" category="List">
+				<xr:TypeId>e8e62603-c381-4f2d-8b4d-b0d7a6b8a9d3</xr:TypeId>
+				<xr:ValueId>ef9d177e-56a0-4b38-b5a1-532d8f278e80</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.МаппингОтветовАнкетыДомКлик" category="RecordSet">
-				<xr:TypeId>629e4a3c-226e-46ed-a762-ea14b1c904bd</xr:TypeId>
-				<xr:ValueId>dd54f9f7-74e6-4279-a239-28306a7e56d4</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.Маппинг_ФактическийАдресДомКлик" category="RecordSet">
+				<xr:TypeId>f0cbaa65-5ace-41e0-ae04-06eea1909d2c</xr:TypeId>
+				<xr:ValueId>524f51f0-de2d-4cf8-8d72-446e104f3fcf</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.МаппингОтветовАнкетыДомКлик" category="RecordKey">
-				<xr:TypeId>50aa0840-58d6-4ef7-8705-e56d2792865c</xr:TypeId>
-				<xr:ValueId>c6501e57-abdd-4ba2-b732-8698d7aa1cd3</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.Маппинг_ФактическийАдресДомКлик" category="RecordKey">
+				<xr:TypeId>dafc9bea-acb9-4bdb-a5df-118629c492d4</xr:TypeId>
+				<xr:ValueId>2cc42264-c860-447d-8659-c31142504dda</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.МаппингОтветовАнкетыДомКлик" category="RecordManager">
-				<xr:TypeId>c89f13d5-2734-4409-98f6-fe6a845434fc</xr:TypeId>
-				<xr:ValueId>5df1efe7-25de-4740-a7f7-df266f24f602</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordManager.Маппинг_ФактическийАдресДомКлик" category="RecordManager">
+				<xr:TypeId>4638ffd3-1ae1-4c51-8786-cae2aa7f7cd4</xr:TypeId>
+				<xr:ValueId>1331073a-9dae-4583-bdcb-c96da668d955</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>МаппингОтветовАнкетыДомКлик</Name>
+			<Name>Маппинг_ФактическийАдресДомКлик</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Маппинг ответов анкеты(ДомКлик)</v8:content>
+					<v8:content>Маппинг фактического адреса(ДомКлик)</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -168,7 +168,89 @@
 			<DataHistory>DontUse</DataHistory>
 		</Properties>
 		<ChildObjects>
-			<Dimension uuid="44270e6f-6aa0-471f-98f4-c0b9e8f462ef">
+			<Resource uuid="35fd22a1-76fc-4112-90f9-97a44b1c2bac">
+				<Properties>
+					<Name>Обязательный</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Обязательный</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</Resource>
+			<Attribute uuid="f70ad06e-06aa-48c4-8931-a4bf1a233dae">
+				<Properties>
+					<Name>РазделительСтрокиСлияния</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Разделитель строки слияния</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>2</v8:Length>
+							<v8:AllowedLength>Fixed</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:type="xs:string">  </FillValue>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</Attribute>
+			<Dimension uuid="0b271acb-1329-47ee-9394-88b5f3b0d619">
 				<Properties>
 					<Name>ЭлементарныйВопрос</Name>
 					<Synonym>
@@ -215,28 +297,27 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Dimension>
-			<Dimension uuid="45a29dac-e7f3-406b-99aa-e8946504a561">
+			<Dimension uuid="522999e4-df41-4a23-90f3-01c482dbf18d">
 				<Properties>
-					<Name>Ответ</Name>
+					<Name>ПараметрДомКлик</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Ответ</v8:content>
+							<v8:content>Параметр ДомКлик</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.ВариантыОтветовАнкет</v8:Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>100</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
 					<EditFormat/>
-					<ToolTip>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Ответ на вопрос анкеты</v8:content>
-						</v8:item>
-					</ToolTip>
+					<ToolTip/>
 					<MarkNegatives>false</MarkNegatives>
 					<Mask/>
 					<MultiLine>false</MultiLine>
@@ -244,16 +325,10 @@
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
 					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
+					<FillValue xsi:type="xs:string"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks>
-						<xr:Link>
-							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">InformationRegister.МаппингОтветовАнкетыДомКлик.Dimension.ЭлементарныйВопрос</xr:DataPath>
-							<xr:ValueChange>Clear</xr:ValueChange>
-						</xr:Link>
-					</ChoiceParameterLinks>
+					<ChoiceParameterLinks/>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
@@ -268,47 +343,23 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Dimension>
-			<Dimension uuid="550b5c79-bc64-49ed-83c2-d3c962675b7d">
+			<Dimension uuid="c08c1c73-9d0c-441e-a055-72e3c853d33d">
 				<Properties>
-					<Name>ПараметрДомКлик</Name>
+					<Name>ПозицияВСтрокеСлияния</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Параметр ДомКлик</v8:content>
+							<v8:content>Позиция в строке слияния</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.ПодтипыДокументовДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.КатегорииДеятельностиАвтораАнкетыДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.ПродуктСделкиДомКлик</v8:Type>
-						<v8:Type>xs:boolean</v8:Type>
-						<v8:Type>cfg:CatalogRef.СтатусыСделокДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.ТипыАнкетДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.ОбщийТрудовойСтажЗаПятьЛетДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.ТипыДокументовДомКлик</v8:Type>
-						<v8:Type>xs:string</v8:Type>
-						<v8:Type>xs:dateTime</v8:Type>
-						<v8:Type>cfg:CatalogRef.ВидыДефектовДокументовДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.ТипыЗанятостиДомКлик</v8:Type>
 						<v8:Type>xs:decimal</v8:Type>
-						<v8:Type>cfg:CatalogRef.ОбразованиеЗаемщикаСозаемщикаДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.ВидыДеятельностиОрганизацииДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.СтажРаботыДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.ТипДоходаДомКлик</v8:Type>
-						<v8:Type>cfg:CatalogRef.ВремяРаботыВОрганизацииДомКлик</v8:Type>
 						<v8:NumberQualifiers>
-							<v8:Digits>19</v8:Digits>
-							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:Digits>10</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
 							<v8:AllowedSign>Any</v8:AllowedSign>
 						</v8:NumberQualifiers>
-						<v8:StringQualifiers>
-							<v8:Length>100</v8:Length>
-							<v8:AllowedLength>Variable</v8:AllowedLength>
-						</v8:StringQualifiers>
-						<v8:DateQualifiers>
-							<v8:DateFractions>Date</v8:DateFractions>
-						</v8:DateQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

@@ -1437,11 +1437,12 @@
 			<Metadata name="Catalog.ПараметрыЗапроса.Attribute.ИспользоватьВсегда" id="0b2da1f0-503f-4ef2-ac48-7c96e0375a56"/>
 		</Metadata>
 		<Metadata name="Catalog.ПараметрыЗапроса.Predefined" id="54c77061-31c7-4103-b489-01134073f62d.1c" configVersion="bb391b903253784eb099c8fc08a5aa9500000000"/>
-		<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков" id="94b0a44a-fa0f-4704-96be-eabe7e5af87b" configVersion="0900af523a182c40a25574eedfe712d900000000">
+		<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков" id="94b0a44a-fa0f-4704-96be-eabe7e5af87b" configVersion="046ab66025a61e49ac92979b88d7b31200000000">
 			<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.TabularSection.НастройкиПравДоступаПользователей.Attribute.АдресДляРассылки" id="013fcbf2-321f-4cd0-ade0-2a25c6de88c9"/>
 			<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.TabularSection.НастройкиПравДоступаПользователей.Attribute.ПротоколПрокси" id="03d52a52-85e1-439f-b09f-ac5c38405a59"/>
 			<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Attribute.ТестовыйСтенд_Token" id="147fb72c-4859-48f7-a7a5-063dbcc8c712"/>
 			<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.TabularSection.НастройкиПравДоступаПользователей.Attribute.ИспользоватьАутентификациюОСПрокси" id="18228f4e-cf1a-4892-8633-401768bfa329"/>
+			<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Attribute.НормализацияАдресаDaData" id="1a1a10ac-5e17-4863-b639-143ca780c4c7"/>
 			<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Attribute.ПарольПрокси" id="1d04121b-39ef-41d4-8be4-bb3014fb1e38"/>
 			<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.TabularSection.НастройкиПравДоступаПользователей.Attribute.ГруппаПользователя" id="2fd6157a-fca0-4838-a005-12b8ec45d9b2"/>
 			<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Attribute.ТолькоОтправкаПисем" id="34fa4c6f-6529-4173-80ed-3c9d8eb34865"/>
@@ -1473,8 +1474,8 @@
 		</Metadata>
 		<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Form.ФормаСписка" id="dcba4b80-213d-434c-ad69-ef212742c6ab" configVersion="419f4606700f8843b4f2c76a5b8a4d1000000000"/>
 		<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Form.ФормаСписка.Form" id="dcba4b80-213d-434c-ad69-ef212742c6ab.0" configVersion="a9c6d3480786b7488a7881da58755b6200000000"/>
-		<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Form.ФормаЭлемента" id="169ac0ec-d87d-4f53-a658-e0e8c44528a9" configVersion="e8185202787939448fdc8fe77945274000000000"/>
-		<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Form.ФормаЭлемента.Form" id="169ac0ec-d87d-4f53-a658-e0e8c44528a9.0" configVersion="6976d7504fbb784d9c030aafd5a0de0200000000"/>
+		<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Form.ФормаЭлемента" id="169ac0ec-d87d-4f53-a658-e0e8c44528a9" configVersion="dc43fef59b8c1a4eb44b7103ce02d32300000000"/>
+		<Metadata name="Catalog.ПараметрыПодключенияAPIИпотечныхБанков.Form.ФормаЭлемента.Form" id="169ac0ec-d87d-4f53-a658-e0e8c44528a9.0" configVersion="6a2ed793a20e0a449499a7b6c5574c0e00000000"/>
 		<Metadata name="Catalog.ПараметрыПолученияЗаявокНаCallBack" id="db891398-2ec0-4348-98d0-ec7962693674" configVersion="235e6a6d802f7e4684553c135d19a3f700000000">
 			<Metadata name="Catalog.ПараметрыПолученияЗаявокНаCallBack.Attribute.ЗагружатьЗаТекущийДень" id="0baaa99b-88b4-47ab-be34-fe14f95e6e39"/>
 			<Metadata name="Catalog.ПараметрыПолученияЗаявокНаCallBack.Attribute.ПолучатьЗаявки" id="19743d16-bf5a-4556-9925-e25dea4f5d85"/>
@@ -3414,8 +3415,8 @@
 		<Metadata name="CommonModule.ОтправкаSMSПовтИсп.Module" id="a07971f5-ed6d-4829-a6bb-4b17cd5c6f6c.0" configVersion="a96b4425140dc1499afa94ddb65ca8e000000000"/>
 		<Metadata name="CommonModule.ОтправкаSMSЧерезGSMINFORM" id="06323ebd-5f74-494a-99a5-eb77e23d8637" configVersion="b6f7cae41de9a246b715285b4219daa200000000"/>
 		<Metadata name="CommonModule.ОтправкаSMSЧерезGSMINFORM.Module" id="06323ebd-5f74-494a-99a5-eb77e23d8637.0" configVersion="04589998ab6a4e4181ecc1335b2635ad00000000"/>
-		<Metadata name="CommonModule.ОтправкаSMSЧерезInfobip" id="ad1e8c3c-2907-4da5-a4d0-f8c385378754" configVersion="aac8736f1ff5f34481676b81027dc5af00000000"/>
-		<Metadata name="CommonModule.ОтправкаSMSЧерезInfobip.Module" id="ad1e8c3c-2907-4da5-a4d0-f8c385378754.0" configVersion="adca043d5e55bf42909dee5a444397f400000000"/>
+		<Metadata name="CommonModule.ОтправкаSMSЧерезInfobip" id="ad1e8c3c-2907-4da5-a4d0-f8c385378754" configVersion="fe314c229bf56c43994a649b273fe03b00000000"/>
+		<Metadata name="CommonModule.ОтправкаSMSЧерезInfobip.Module" id="ad1e8c3c-2907-4da5-a4d0-f8c385378754.0" configVersion="bb2475f86022734c91fb0a4c2d6a354a00000000"/>
 		<Metadata name="CommonModule.ОтправкаSMSЧерезSMS4B" id="9c4e28e8-7257-42ed-9fd8-793a0b8eb945" configVersion="002363d1cde38541ba4d2e5ffdde660100000000"/>
 		<Metadata name="CommonModule.ОтправкаSMSЧерезSMS4B.Module" id="9c4e28e8-7257-42ed-9fd8-793a0b8eb945.0" configVersion="8da950cbf98ee144a2e54fad76c7a53e00000000"/>
 		<Metadata name="CommonModule.ОтправкаSMSЧерезSMSRU" id="9b7b6d0e-68d6-4a73-837c-2a6fd456b236" configVersion="7a21a56849617743b0f88d8202749b6b00000000"/>
@@ -3696,8 +3697,8 @@
 		<Metadata name="CommonModule.УправлениеДоступомСлужебныйПовтИсп.Module" id="b0d9086f-cef7-47a8-ad62-d85fea28ebda.0" configVersion="4439a72d1a83af469eb53583b7cb8b8100000000"/>
 		<Metadata name="CommonModule.УправлениеЗаявкамиНаЗвонок" id="593c5fe4-12db-4efd-8980-2e752aca8fdd" configVersion="8296dcf6ad64b2408a8a0ce0d89e09fc00000000"/>
 		<Metadata name="CommonModule.УправлениеЗаявкамиНаЗвонок.Module" id="593c5fe4-12db-4efd-8980-2e752aca8fdd.0" configVersion="6c62302cb1dc51438efa8ccbe05d269b00000000"/>
-		<Metadata name="CommonModule.УправлениеИпотечнымиЗаявкамиДомКлик" id="37e8d07a-41b0-4b38-b1b7-2dd3d02b2bcd" configVersion="d9de247864b26043897abea71a30d94100000000"/>
-		<Metadata name="CommonModule.УправлениеИпотечнымиЗаявкамиДомКлик.Module" id="37e8d07a-41b0-4b38-b1b7-2dd3d02b2bcd.0" configVersion="8dad49aaf1011748a048f81a7d2d96d000000000"/>
+		<Metadata name="CommonModule.УправлениеИпотечнымиЗаявкамиДомКлик" id="37e8d07a-41b0-4b38-b1b7-2dd3d02b2bcd" configVersion="d19d06e620a3fa4bbbe2b240560e3afc00000000"/>
+		<Metadata name="CommonModule.УправлениеИпотечнымиЗаявкамиДомКлик.Module" id="37e8d07a-41b0-4b38-b1b7-2dd3d02b2bcd.0" configVersion="9eabb8710f1e59468236ca0ad7389afd00000000"/>
 		<Metadata name="CommonModule.УправлениеКонтактнойИнформацией" id="3f3b592d-ca61-40c7-be1f-e5d3224a1eb3" configVersion="7b79379bd3a6aa43a0b0e6c6e5ded32600000000"/>
 		<Metadata name="CommonModule.УправлениеКонтактнойИнформацией.Module" id="3f3b592d-ca61-40c7-be1f-e5d3224a1eb3.0" configVersion="e9e1ee84cf828541a256fa49de34fa9600000000"/>
 		<Metadata name="CommonModule.УправлениеКонтактнойИнформациейКлиент" id="2c02a558-8d12-44cf-be6b-9c399b9032e5" configVersion="e1ee170aa57bd4429af4d6c22053574600000000"/>
@@ -4502,7 +4503,7 @@
 		<Metadata name="CommonTemplate.ПолучениеДереваОбработчиковОбновления.Template" id="88b879b7-1bb3-4478-b569-35bdb5c56939.0" configVersion="c47ebab1d894c54881a1a424f1ab53bb00000000"/>
 		<Metadata name="CommonTemplate.СтруктураПодчиненности" id="7a62d031-c340-4b1e-90af-fff697a2e979" configVersion="95a95af845d3934cac66ecd95c30b2d600000000"/>
 		<Metadata name="CommonTemplate.СтруктураПодчиненности.Template" id="7a62d031-c340-4b1e-90af-fff697a2e979.0" configVersion="c9af97b89184a54bbcc2cd7d24ee56b500000000"/>
-		<Metadata name="Configuration.ABSOLUT_CRM" id="8a9042a7-267c-4d3e-9728-23a6dbde2595" configVersion="177fd6c15864af4cada631c873c2212d00000000"/>
+		<Metadata name="Configuration.ABSOLUT_CRM" id="8a9042a7-267c-4d3e-9728-23a6dbde2595" configVersion="133ea00b826572489f4969b94fc7165200000000"/>
 		<Metadata name="Configuration.ABSOLUT_CRM.ClientApplicationInterface" id="b7c6609d-231e-401d-b5fb-9881f92fa844.b" configVersion="d906ca71e4a5164ab7b4f021ef982e5100000000"/>
 		<Metadata name="Configuration.ABSOLUT_CRM.CommandInterface" id="b7c6609d-231e-401d-b5fb-9881f92fa844.a" configVersion="ee98fac5572d7c4f95cc471107005f0e00000000"/>
 		<Metadata name="Configuration.ABSOLUT_CRM.ExternalConnectionModule" id="b7c6609d-231e-401d-b5fb-9881f92fa844.5" configVersion="97a1c2a43e128b4682e555fe22a0ff1600000000"/>
@@ -9413,19 +9414,37 @@
 			<Metadata name="InformationRegister.ЛогПолучениеДанныхЗаявокНаКредит.Resource.Ошибки" id="752686a4-811a-48dc-9daa-29ce8ea64aec"/>
 			<Metadata name="InformationRegister.ЛогПолучениеДанныхЗаявокНаКредит.Dimension.ИпотечнаяЗаявка" id="90a38c43-b527-408e-bde9-6b1a51941e0b"/>
 		</Metadata>
-		<Metadata name="InformationRegister.МаппингВопросовАнкетыДомКлик" id="70b9539c-72a6-4c5c-8c1f-aca78b159a47" configVersion="bc3fc21ef752da43be23ad1bdc85383a00000000">
-			<Metadata name="InformationRegister.МаппингВопросовАнкетыДомКлик.Dimension.ЭлементарныйВопрос" id="0d3ef0ff-9829-4e6f-99a4-8edf41088654"/>
-			<Metadata name="InformationRegister.МаппингВопросовАнкетыДомКлик.Dimension.ПараметрДомКлик" id="337ba79e-52b0-4eab-9503-8d925b443839"/>
-			<Metadata name="InformationRegister.МаппингВопросовАнкетыДомКлик.Resource.Обязательный" id="f8dcfbd1-5d2f-4abc-bda2-7a574c82af7c"/>
+		<Metadata name="InformationRegister.Маппинг_АдресРегистрацииДомКлик" id="7845eab5-5371-4ad8-b0b9-1c3fcda90a9c" configVersion="3d8a2f1ae312c849941ff75b18999bdf00000000">
+			<Metadata name="InformationRegister.Маппинг_АдресРегистрацииДомКлик.Resource.Обязательный" id="833dcc2d-9a46-4188-a88c-c3899bf47722"/>
+			<Metadata name="InformationRegister.Маппинг_АдресРегистрацииДомКлик.Dimension.ЭлементарныйВопрос" id="965724d8-d947-4d90-9e85-97d3c02f29c7"/>
+			<Metadata name="InformationRegister.Маппинг_АдресРегистрацииДомКлик.Dimension.ПозицияВСтрокеСлияния" id="f12cefb3-fda1-4013-a99f-b7ab0efd5f15"/>
+			<Metadata name="InformationRegister.Маппинг_АдресРегистрацииДомКлик.Dimension.ПараметрДомКлик" id="f16e7704-b102-480b-99b6-0fe95c101f8f"/>
+			<Metadata name="InformationRegister.Маппинг_АдресРегистрацииДомКлик.Attribute.РазделительСтрокиСлияния" id="fdc9cb32-fc33-45ba-a5ec-fd150cef9f6b"/>
 		</Metadata>
-		<Metadata name="InformationRegister.МаппингОтветовАнкетыДомКлик" id="031cb36a-7368-4f3a-982c-9ab0239374f0" configVersion="0fa3707dcd68d5498c11d9714c77c82600000000">
-			<Metadata name="InformationRegister.МаппингОтветовАнкетыДомКлик.Dimension.ЭлементарныйВопрос" id="44270e6f-6aa0-471f-98f4-c0b9e8f462ef"/>
-			<Metadata name="InformationRegister.МаппингОтветовАнкетыДомКлик.Dimension.Ответ" id="45a29dac-e7f3-406b-99aa-e8946504a561"/>
-			<Metadata name="InformationRegister.МаппингОтветовАнкетыДомКлик.Dimension.ПараметрДомКлик" id="550b5c79-bc64-49ed-83c2-d3c962675b7d"/>
+		<Metadata name="InformationRegister.Маппинг_ВопросыАнкетыДомКлик" id="70b9539c-72a6-4c5c-8c1f-aca78b159a47" configVersion="cfe671ebe75f4940addda671a41b7b4400000000">
+			<Metadata name="InformationRegister.Маппинг_ВопросыАнкетыДомКлик.Dimension.ЭлементарныйВопрос" id="0d3ef0ff-9829-4e6f-99a4-8edf41088654"/>
+			<Metadata name="InformationRegister.Маппинг_ВопросыАнкетыДомКлик.Dimension.ПараметрДомКлик" id="337ba79e-52b0-4eab-9503-8d925b443839"/>
+			<Metadata name="InformationRegister.Маппинг_ВопросыАнкетыДомКлик.Attribute.ЭтоКоллекция" id="d6d16db4-1c8e-4a83-8533-2a2d3b71bd77"/>
+			<Metadata name="InformationRegister.Маппинг_ВопросыАнкетыДомКлик.Resource.Обязательный" id="f8dcfbd1-5d2f-4abc-bda2-7a574c82af7c"/>
 		</Metadata>
-		<Metadata name="InformationRegister.МаппингОтветовАнкетыДомКлик.Help" id="031cb36a-7368-4f3a-982c-9ab0239374f0.0" configVersion="22000f77c74fac40a5ae0740c9c2f9d600000000"/>
-		<Metadata name="InformationRegister.МаппингОтветовАнкетыДомКлик.ManagerModule" id="031cb36a-7368-4f3a-982c-9ab0239374f0.2" configVersion="4bb513e50207bd408e59693e067de40b00000000"/>
-		<Metadata name="InformationRegister.МаппингОтветовАнкетыДомКлик.RecordSetModule" id="031cb36a-7368-4f3a-982c-9ab0239374f0.1" configVersion="35e55ec15b554c4490e6e1de3feec92e00000000"/>
+		<Metadata name="InformationRegister.Маппинг_ОтветыАнкетыДомКлик" id="031cb36a-7368-4f3a-982c-9ab0239374f0" configVersion="697a377acefdc643a155243defddea0a00000000">
+			<Metadata name="InformationRegister.Маппинг_ОтветыАнкетыДомКлик.Dimension.ЭлементарныйВопрос" id="44270e6f-6aa0-471f-98f4-c0b9e8f462ef"/>
+			<Metadata name="InformationRegister.Маппинг_ОтветыАнкетыДомКлик.Dimension.Ответ" id="45a29dac-e7f3-406b-99aa-e8946504a561"/>
+			<Metadata name="InformationRegister.Маппинг_ОтветыАнкетыДомКлик.Dimension.ЗначениеПараметраДомКлик" id="550b5c79-bc64-49ed-83c2-d3c962675b7d"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Маппинг_ОтветыАнкетыДомКлик.Help" id="031cb36a-7368-4f3a-982c-9ab0239374f0.0" configVersion="22000f77c74fac40a5ae0740c9c2f9d600000000"/>
+		<Metadata name="InformationRegister.Маппинг_ОтветыАнкетыДомКлик.ManagerModule" id="031cb36a-7368-4f3a-982c-9ab0239374f0.2" configVersion="4bb513e50207bd408e59693e067de40b00000000"/>
+		<Metadata name="InformationRegister.Маппинг_ОтветыАнкетыДомКлик.RecordSetModule" id="031cb36a-7368-4f3a-982c-9ab0239374f0.1" configVersion="35e55ec15b554c4490e6e1de3feec92e00000000"/>
+		<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик" id="87559e6b-38de-4378-938e-ff7aec18fa98" configVersion="2dfb2103ccfb6b4c8550c529fc844d8400000000">
+			<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик.Dimension.ЭлементарныйВопрос" id="0b271acb-1329-47ee-9394-88b5f3b0d619"/>
+			<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик.Resource.Обязательный" id="35fd22a1-76fc-4112-90f9-97a44b1c2bac"/>
+			<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик.Dimension.ПараметрДомКлик" id="522999e4-df41-4a23-90f3-01c482dbf18d"/>
+			<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик.Dimension.ПозицияВСтрокеСлияния" id="c08c1c73-9d0c-441e-a055-72e3c853d33d"/>
+			<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик.Attribute.РазделительСтрокиСлияния" id="f70ad06e-06aa-48c4-8931-a4bf1a233dae"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик.Help" id="87559e6b-38de-4378-938e-ff7aec18fa98.0" configVersion="11a057263c33f7409704ebb1e28384c400000000"/>
+		<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик.ManagerModule" id="87559e6b-38de-4378-938e-ff7aec18fa98.2" configVersion="3d59f99863197a40ae661620611fca8800000000"/>
+		<Metadata name="InformationRegister.Маппинг_ФактическийАдресДомКлик.RecordSetModule" id="87559e6b-38de-4378-938e-ff7aec18fa98.1" configVersion="6696882edeca68439b3f5cb62790416700000000"/>
 		<Metadata name="InformationRegister.МаппингПараметровСбербанк_PDF_EXCEL" id="d3e5bc3b-db06-42e8-addf-c324a134eaef" configVersion="673a5af04d34114aae8ea1f17531059c00000000">
 			<Metadata name="InformationRegister.МаппингПараметровСбербанк_PDF_EXCEL.Attribute.РазделительСтрокиСлияния" id="29b8c75b-77ff-478b-909b-037d0ea157c2"/>
 			<Metadata name="InformationRegister.МаппингПараметровСбербанк_PDF_EXCEL.Dimension.ИпотечныйБанк" id="6bba2b01-d306-4f47-a5c9-08b60c1d8e96"/>
@@ -11479,7 +11498,7 @@
 		<Metadata name="Subsystem.ЗаявкиНаЗвонок.Subsystem.Администрирование" id="ac668104-d883-45d2-bbea-6e97c6de02c1" configVersion="55486a7c6ff02c45b35204e6370c540100000000"/>
 		<Metadata name="Subsystem.ИпотечныеМенеджеры" id="aa6a59e6-c28b-4a95-84be-f0add8ddd1e3" configVersion="a318ea31d51b3e4c8ff23ad41d18be7b00000000"/>
 		<Metadata name="Subsystem.ИпотечныеМенеджеры.CommandInterface" id="aa6a59e6-c28b-4a95-84be-f0add8ddd1e3.1" configVersion="2bfab2a4d6bf1844ba8d699cd10684a900000000"/>
-		<Metadata name="Subsystem.ИпотечныеМенеджеры.Subsystem.ДомКлик" id="b7ce90b0-1b6a-4fab-9ce0-ad68152e42c4" configVersion="47e50e335b2c2e4eb464eff0de04d59b00000000"/>
+		<Metadata name="Subsystem.ИпотечныеМенеджеры.Subsystem.ДомКлик" id="b7ce90b0-1b6a-4fab-9ce0-ad68152e42c4" configVersion="813cf03dfd1e9c49b06500c03d07184100000000"/>
 		<Metadata name="Subsystem.ИпотечныеМенеджеры.Subsystem.ИпотечныеЗаявки" id="4291e306-df65-45ba-8d49-665c88cbdd81" configVersion="feb4bbdd7dab0e4f8106bd18755b0b4100000000"/>
 		<Metadata name="Subsystem.ИпотечныеМенеджеры.Subsystem.ИпотечныеЗаявки.CommandInterface" id="4291e306-df65-45ba-8d49-665c88cbdd81.1" configVersion="3c803ba277fa5c468d0908fcb2e97e5f00000000"/>
 		<Metadata name="Subsystem.ИпотечныеМенеджеры.Subsystem.Мультикалькулятор" id="7849238a-4219-4f81-8521-eea3f0c4758e" configVersion="c3eb4d5e7983594e9b7f1f733b32a1aa00000000"/>

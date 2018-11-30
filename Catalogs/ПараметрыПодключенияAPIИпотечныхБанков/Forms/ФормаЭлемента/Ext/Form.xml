@@ -115,6 +115,47 @@
 							<ContextMenu name="client_secretКонтекстноеМеню" id="154"/>
 							<ExtendedTooltip name="client_secretРасширеннаяПодсказка" id="155"/>
 						</InputField>
+						<CheckBoxField name="НормализацияАдресаDaData" id="156">
+							<DataPath>Объект.НормализацияАдресаDaData</DataPath>
+							<CheckBoxType>Auto</CheckBoxType>
+							<ContextMenu name="НормализацияАдресаDaDataКонтекстноеМеню" id="157"/>
+							<ExtendedTooltip name="НормализацияАдресаDaDataРасширеннаяПодсказка" id="158"/>
+							<Events>
+								<Event name="OnChange">НормализацияАдресаDaDataПриИзменении</Event>
+							</Events>
+						</CheckBoxField>
+						<UsualGroup name="ГруппаКлючиDaData" id="165">
+							<Title>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа ключи da data</v8:content>
+								</v8:item>
+							</Title>
+							<ToolTip>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Группа ключи da data</v8:content>
+								</v8:item>
+							</ToolTip>
+							<Group>Vertical</Group>
+							<Representation>None</Representation>
+							<ShowTitle>false</ShowTitle>
+							<ExtendedTooltip name="ГруппаКлючиDaDataРасширеннаяПодсказка" id="166"/>
+							<ChildItems>
+								<InputField name="DaData_APIКлюч" id="159">
+									<DataPath>DaData_APIКлюч</DataPath>
+									<PasswordMode>true</PasswordMode>
+									<ContextMenu name="DaData_APIКлючКонтекстноеМеню" id="160"/>
+									<ExtendedTooltip name="DaData_APIКлючРасширеннаяПодсказка" id="161"/>
+								</InputField>
+								<InputField name="DaData_СекретныйКлюч" id="162">
+									<DataPath>DaData_СекретныйКлюч</DataPath>
+									<PasswordMode>true</PasswordMode>
+									<ContextMenu name="DaData_СекретныйКлючКонтекстноеМеню" id="163"/>
+									<ExtendedTooltip name="DaData_СекретныйКлючРасширеннаяПодсказка" id="164"/>
+								</InputField>
+							</ChildItems>
+						</UsualGroup>
 					</ChildItems>
 				</Page>
 				<Page name="Прокси" id="114">
@@ -449,6 +490,36 @@
 				<v8:item>
 					<v8:lang>ru</v8:lang>
 					<v8:content>Client secret</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="DaData_APIКлюч" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>API ключ</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="DaData_СекретныйКлюч" id="5">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Секретный ключ</v8:content>
 				</v8:item>
 			</Title>
 			<Type>

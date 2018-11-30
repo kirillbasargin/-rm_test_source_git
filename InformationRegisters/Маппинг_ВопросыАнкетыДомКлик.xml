@@ -2,37 +2,37 @@
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
 	<InformationRegister uuid="70b9539c-72a6-4c5c-8c1f-aca78b159a47">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.МаппингВопросовАнкетыДомКлик" category="Record">
+			<xr:GeneratedType name="InformationRegisterRecord.Маппинг_ВопросыАнкетыДомКлик" category="Record">
 				<xr:TypeId>5370cf49-88a2-4450-a44d-e9e7f439b810</xr:TypeId>
 				<xr:ValueId>370461f4-819a-4324-8e93-779870d907d6</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.МаппингВопросовАнкетыДомКлик" category="Manager">
+			<xr:GeneratedType name="InformationRegisterManager.Маппинг_ВопросыАнкетыДомКлик" category="Manager">
 				<xr:TypeId>c23e2e07-4fc9-49ba-b344-54c3a3565c61</xr:TypeId>
 				<xr:ValueId>6e4d91a6-8ee4-423a-a220-56ed5366f99f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.МаппингВопросовАнкетыДомКлик" category="Selection">
+			<xr:GeneratedType name="InformationRegisterSelection.Маппинг_ВопросыАнкетыДомКлик" category="Selection">
 				<xr:TypeId>ad98a25e-3db2-464a-8d54-e90df00c5aed</xr:TypeId>
 				<xr:ValueId>ce167bba-7944-4ef6-9d5c-2c0966ccf2f9</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.МаппингВопросовАнкетыДомКлик" category="List">
+			<xr:GeneratedType name="InformationRegisterList.Маппинг_ВопросыАнкетыДомКлик" category="List">
 				<xr:TypeId>5d97065d-432d-4b5e-b96c-38919d09c982</xr:TypeId>
 				<xr:ValueId>aad3413d-8444-46cd-9eba-aac86bac8cc0</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.МаппингВопросовАнкетыДомКлик" category="RecordSet">
+			<xr:GeneratedType name="InformationRegisterRecordSet.Маппинг_ВопросыАнкетыДомКлик" category="RecordSet">
 				<xr:TypeId>7077ce81-5964-4150-8e70-61566c29ab5e</xr:TypeId>
 				<xr:ValueId>ccd4343a-cb12-4239-bdca-453efc836fd8</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.МаппингВопросовАнкетыДомКлик" category="RecordKey">
+			<xr:GeneratedType name="InformationRegisterRecordKey.Маппинг_ВопросыАнкетыДомКлик" category="RecordKey">
 				<xr:TypeId>f5da5cec-c9d7-456f-9387-1b57478f9eeb</xr:TypeId>
 				<xr:ValueId>50565f36-0936-424c-905a-e54ebeedb2b5</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.МаппингВопросовАнкетыДомКлик" category="RecordManager">
+			<xr:GeneratedType name="InformationRegisterRecordManager.Маппинг_ВопросыАнкетыДомКлик" category="RecordManager">
 				<xr:TypeId>1b63b647-2dda-4846-a1eb-06d3b08782a7</xr:TypeId>
 				<xr:ValueId>7e9497b1-2b40-4761-98bd-640f26034850</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>МаппингВопросовАнкетыДомКлик</Name>
+			<Name>Маппинг_ВопросыАнкетыДомКлик</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -101,6 +101,45 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
+			<Attribute uuid="d6d16db4-1c8e-4a83-8533-2a2d3b71bd77">
+				<Properties>
+					<Name>ЭтоКоллекция</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Это коллекция</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:boolean</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</Attribute>
 			<Dimension uuid="0d3ef0ff-9829-4e6f-99a4-8edf41088654">
 				<Properties>
 					<Name>ЭлементарныйВопрос</Name>

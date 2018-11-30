@@ -2247,8 +2247,10 @@
 			<InformationRegister>ДисконтныеКарты</InformationRegister>
 			<InformationRegister>СоставКомплекснойКампании</InformationRegister>
 			<InformationRegister>ДанныеАвторизацииДомКлик</InformationRegister>
-			<InformationRegister>МаппингВопросовАнкетыДомКлик</InformationRegister>
-			<InformationRegister>МаппингОтветовАнкетыДомКлик</InformationRegister>
+			<InformationRegister>Маппинг_ВопросыАнкетыДомКлик</InformationRegister>
+			<InformationRegister>Маппинг_ОтветыАнкетыДомКлик</InformationRegister>
+			<InformationRegister>Маппинг_АдресРегистрацииДомКлик</InformationRegister>
+			<InformationRegister>Маппинг_ФактическийАдресДомКлик</InformationRegister>
 			<AccumulationRegister>ОчередьБронирования</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ВопросыДляАнкетирования</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ДополнительныеРеквизитыИСведения</ChartOfCharacteristicTypes>
